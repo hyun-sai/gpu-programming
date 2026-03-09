@@ -18,10 +18,10 @@
     <ClCompile Include="src\glad.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="1-main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="HelloWindow.cpp">
+    <ClCompile Include="2-HelloWindow.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
